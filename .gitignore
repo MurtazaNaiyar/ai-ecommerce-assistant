@@ -208,3 +208,9 @@ __marimo__/
 
 env/
 .env/
+.vscode/
+.idea/
+.DS_Store
+*.log
+*.pot
+*.pyc
